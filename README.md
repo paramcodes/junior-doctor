@@ -2,6 +2,11 @@
 
 An AI-powered clinical document processing system that converts scanned patient records into structured discharge summaries while preserving provenance, detecting conflicts, and surfacing uncertainty through review flags.
 
+## Blog and Demo
+[Blog Link](https://medium.com/@sparamveer1001/building-discharge-summary-agent-d98e65ba1c1f?postPublishedType=initial)
+[Demo Link](https://youtu.be/gpuAX_5j37s)
+![summary](assets/imagesu.png)
+
 ## Key Features
 
 - OCR support for scanned PDFs
